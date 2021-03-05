@@ -1,2 +1,3 @@
 # just
-javascript/node
+
+基于Typescript的基础函数库
