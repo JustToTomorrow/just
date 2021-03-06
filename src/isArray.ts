@@ -1,2 +1,3 @@
-const isArray = (arr: any) => Array.isArray(arr)
+const isArray = <T>(arr: T) => Array.isArray(arr)
+
 export default isArray

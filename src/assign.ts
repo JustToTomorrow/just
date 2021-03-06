@@ -1,3 +1,3 @@
-export default {
+const assign = () => {}
 
-}
+export default assign

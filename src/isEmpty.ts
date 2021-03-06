@@ -1,1 +1,3 @@
-export const isEmpty = () => {}
+const isEmpty = () => {}
+
+export default isEmpty
